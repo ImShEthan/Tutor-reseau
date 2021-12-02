@@ -5,8 +5,11 @@
 
 **Je ne pense pas avoir tout le tp correcte mais j'essaie d'expliquer au max.**
 
+**Voici aussi mon fichier packet tracer [`tp-1.pkt`](https://github.com/ImShEthan/Tutor-reseau/blob/main/Tp-1/file/tp_1.pkt)**
+
 Pour plus d'explications ou si vous avez besoin d'aide voici mon discord : 
 - *Ethan.💤#1337*
+
 
   
 # Sommaire
