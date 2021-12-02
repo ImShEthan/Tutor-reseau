@@ -5,7 +5,6 @@
 
 **Je ne pense pas avoir tout le tp correcte mais j'essaie d'expliquer au max.**
 
-**Voici aussi mon fichier packet tracer [`tp-1.pkt`](https://github.com/ImShEthan/Tutor-reseau/blob/main/Tp-1/file/tp_1.pkt)**
 
 Pour plus d'explications ou si vous avez besoin d'aide voici mon discord : 
 - *Ethan.💤#1337*
@@ -512,6 +511,9 @@ Reply from 192.168.0.5: bytes=32 time=1ms TTL=128
 Voici les commandes qui sont d'après moi utile pour finir le TP.
 
 Mais j'espère que ma petite explications vous aura servie à mieux comprendre certaines choses.
+
+**Voici aussi mon fichier packet tracer [`tp-1.pkt`](https://github.com/ImShEthan/Tutor-reseau/blob/main/Tp-1/file/tp_1.pkt)** ;)
+
 
 S'il manque des informations merci de me le faire remonter rapidement :)
 
