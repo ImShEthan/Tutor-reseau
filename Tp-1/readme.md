@@ -33,7 +33,7 @@ Les fond de couleurs signifie dans quel VLAN ils serrons.
 
   
 
-*C'est quoi un Vlan ?*
+*C'est quoi un VLAN ?*
 
 *"Un VLAN, pour Virtual Local Area Network, décrit un type de réseau local. On le traduit en français par réseau local virtuel.*
 
@@ -73,7 +73,7 @@ Pour commencer le tp il faut refaire le réseau donné sur packet tracer.
 
   
 
-⚠️ **Faite attention au port ou vous branchez vos câbles ! Il faudra s'en souvenir dans le config !**
+⚠️ **Faite attention à l'[interfaces](#rappel-et-mémo) ou vous branchez vos câbles ! Il faudra s'en souvenir dans le config !**
 
   
 
